@@ -35,6 +35,7 @@ public class Loader {
                 fout.close();
             }
         }
+        System.out.println("File is SUCCESSFUL dowmloaded!");
     }
     
     
